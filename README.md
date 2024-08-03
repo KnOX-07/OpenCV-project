@@ -1,4 +1,4 @@
-# This is an OpenCV project.
+# OpenCV
 
 # Installation
 
