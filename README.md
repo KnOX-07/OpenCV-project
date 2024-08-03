@@ -11,7 +11,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/opencv-project.git
+    git clone https://github.com/KnOX-07/OpenCV-project.git
     cd opencv-project
     ```
 2. Install the required dependencies:
