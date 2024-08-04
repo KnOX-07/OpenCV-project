@@ -1,3 +1,3 @@
-caffemodel = "https://drive.google.com/file/d/1NoWTHtJKo_dMruSWyUbTiu43XXzkj9RB/view?usp=sharing"
-race_car.mp4 = "https://drive.google.com/file/d/1RMkFUVCeuuU76-9IDNbVoQr8R1NUS0Di/view?usp=sharing"
-race_car-GOTURN.mp4 = "https://drive.google.com/file/d/1lFxLXd0pgwcBt7a-RW3JXpSkQET8iB-K/view?usp=sharing"
+caffemodel = https://drive.google.com/file/d/1NoWTHtJKo_dMruSWyUbTiu43XXzkj9RB/view?usp=sharing
+race_car.mp4 = https://drive.google.com/file/d/1RMkFUVCeuuU76-9IDNbVoQr8R1NUS0Di/view?usp=sharing
+race_car-GOTURN.mp4 = https://drive.google.com/file/d/1lFxLXd0pgwcBt7a-RW3JXpSkQET8iB-K/view?usp=sharing
