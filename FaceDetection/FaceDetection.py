@@ -7,7 +7,7 @@ if len(sys.argv) > 1:
 
 source = cv2.VideoCapture(s)
 
-win = "Face Detection"
+win = "Face Detector"
 cv2.namedWindow(win, cv2.WINDOW_NORMAL)
 
 net = cv2.dnn.readNetFromCaffe(r"C:\Users\user\OneDrive\Documents\OpenCV-project\FaceDetection\deploy.prototxt",
